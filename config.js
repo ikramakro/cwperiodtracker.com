@@ -15,7 +15,7 @@
  * No passwords, API keys, or secrets ever go in this file — it is public.
  */
 window.CYCLEWISE_CONFIG = {
-  FORM_ENDPOINT: "",
+  FORM_ENDPOINT: "https://formspree.io/f/xqpqegpn",
 
   // Optional: subject line Formspree uses for the notification email it sends YOU.
   NOTIFY_SUBJECT: "New CycleWise waitlist sign-up"
